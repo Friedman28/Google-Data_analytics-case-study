@@ -1,2 +1,2 @@
-# Google_Data_analytics_case_study
+# Google_Data_Analytics_case_study
 Capstone project for Google Data Analytics certificate
