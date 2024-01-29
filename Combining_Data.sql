@@ -28,3 +28,7 @@ AS (
   UNION ALL
   SELECT * FROM `Cyclistic.2023_12`
 );
+
+-- cheking number of rows
+SELECT COUNT(*)
+FROM `Cyclistic.combined_data_2023`
