@@ -5,4 +5,4 @@ In this project I will use process for data analytics: Ask, Prepre, Process, Ana
 
 After adding preparing data in Excel I've combined data in SQL, here is script:
 
-[Combined data SQL
+[Combined data SQL](https://github.com/Friedman28/Google_Data_Analytics_Cyclist_case_Study/blob/main/Combining_data.sql)
