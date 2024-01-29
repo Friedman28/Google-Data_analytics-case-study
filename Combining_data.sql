@@ -2,7 +2,7 @@
 
 DROP TABLE IF EXISTS `2022_tripdata.combined_data`;
 
--- combining all the 12 months data tables into a single table containing data from Jan 2022 to Dec 2022.
+-- combining all the 12 months of data tables into a single table containing data from Jan 2023 to Dec 2023.
 
 CREATE TABLE IF NOT EXISTS `2022_tripdata.combined_data` AS (
   SELECT * FROM `2022_tripdata.202201_tripdata`
