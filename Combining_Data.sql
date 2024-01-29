@@ -29,6 +29,6 @@ AS (
   SELECT * FROM `Cyclistic.2023_12`
 );
 
--- cheking number of rows
+-- cheking number of rows which are 6227083
 SELECT COUNT(*)
 FROM `Cyclistic.combined_data_2023`
